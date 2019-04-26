@@ -7,7 +7,7 @@
 ### +추가
 
 
-처음 mininoda를 install하고 zsh쉘 환경설정하는 과정에서 좀 헤매서 해결과정을 정리하겠습니다.
+mininoda를 install한 후에 zsh쉘 환경설정하고 가상환경을 다루는 과정에서 좀 헤매서 해결과정을 정리하겠습니다.
 
 ``` bash
 sudo apt install zsh
