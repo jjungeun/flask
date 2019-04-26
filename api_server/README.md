@@ -4,7 +4,9 @@
 
 환경은 ubuntu, zsh(oh my zsh)shell, conda가상환경에서 진행하였습니다.
 
-+추가
+### +추가
+
+
 처음 mininoda를 install하고 zsh쉘 환경설정하는 과정에서 좀 헤매서 해결과정을 정리하겠습니다.
 
 ``` bash
